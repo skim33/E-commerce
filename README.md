@@ -13,7 +13,7 @@
     <a href="https://github.com/skim33/E-commerce"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://shawn-kim-portfolio.web.app/messaging">View Demo</a>
+    <a href="https://shawn-kim-ecommerce.netlify.app">View Demo</a>
     <br />
     <div align="center">Please logn with the guest email address and password shown below:</div>
     <br />
