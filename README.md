@@ -1,8 +1,63 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/skim33/SNS-portfolio">
+    <img src="src/assets/logo_login.png" alt="Logo" width="100" height="auto">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">SNS Portflio</h3>
 
-## Available Scripts
+  <p align="center">
+    A simple forum website with Like functionality
+    <br />
+    <a href="https://github.com/skim33/SNS-portfolio"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://shawn-kim-portfolio.web.app/messaging">View Demo</a>
+    <br />
+    <div align="center">Please logn with the guest email address and password shown below:</div>
+    <br />
+    <div align="center">Email: guest@guest.com</div>
+    <div align="center">Password: 123123</div>
+    <br />
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://shawn-kim-portfolio.web.app/messaging)
+
+One of the most used features of SNS used nowadays is realtime interaction between users. This social networking web app is built with the React Framework for frontend, and Firebase backend services, which allows users to add posts on the feed with "Like" functionality.
+
+### Built With
+
+- [React](https://reactjs.org/) (Frontend)
+- [Redux](https://redux.js.org/) (State Management)
+- [Firebase](https://firebase.google.com/) (Backend / Host)
+- [Material UI](https://mui.com/)
+
+<!-- GETTING STARTED -->
+
+## Installation
+
+To use locally, clone the repository, install dependencies, run with npm.
 
 In the project directory, you can run:
 
@@ -39,32 +94,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Shawn Kim - shawnkimwk@gmail.com
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Project Link: [https://github.com/skim33/SNS-portfolio](https://github.com/skim33/SNS-portfolio)
 
-### Code Splitting
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[product-screenshot]: src/assets/screen_shot.png
