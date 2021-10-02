@@ -5,10 +5,10 @@
     <img src="src/assets/logo_login.png" alt="Logo" width="100" height="auto">
   </a>
 
-  <h3 align="center">SNS Portflio</h3>
+  <h3 align="center">E-Commerce Website</h3>
 
   <p align="center">
-    A simple forum website with Like functionality
+    A fully functional e-commerce website built with commerce.js
     <br />
     <a href="https://github.com/skim33/SNS-portfolio"><strong>Explore the docs »</strong></a>
     <br />
