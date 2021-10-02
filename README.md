@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/skim33/SNS-portfolio">
-    <img src="src/assets/logo_login.png" alt="Logo" width="100" height="auto">
+    <img src="src/assets/logo.jpg" alt="Logo" width="100" height="auto">
   </a>
 
   <h3 align="center">E-Commerce Website</h3>
@@ -10,7 +10,7 @@
   <p align="center">
     A fully functional e-commerce website built with commerce.js
     <br />
-    <a href="https://github.com/skim33/SNS-portfolio"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/skim33/E-commerce"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://shawn-kim-portfolio.web.app/messaging">View Demo</a>
@@ -98,7 +98,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Shawn Kim - shawnkimwk@gmail.com
 
-Project Link: [https://github.com/skim33/SNS-portfolio](https://github.com/skim33/SNS-portfolio)
+Project Link: [https://github.com/skim33/E-commerce](https://github.com/skim33/E-commerce)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
