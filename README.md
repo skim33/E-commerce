@@ -15,7 +15,7 @@
     <br />
     <a href="https://shawn-kim-ecommerce.netlify.app">View Demo</a>
     <br />
-    <div align="center">Please logn with the guest email address and password shown below:</div>
+    <div align="center">Please use the following information of test gateway to visualize scenarios such as payment success:</div>
     <br />
     <div align="center">Email: guest@guest.com</div>
     <div align="center">Password: 123123</div>
