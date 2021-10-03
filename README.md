@@ -46,7 +46,7 @@
 
 [![Product Name Screen Shot1][product-screenshot1]](https://shawn-kim-ecommerce.netlify.app)
 
-![Product Name Screen Shot2][product-screenshot2] ![Product Name Screen Shot3][product-screenshot3]
+![Product Name Screen Shot2][product-screenshot2]|![Product Name Screen Shot3][product-screenshot3]
 
 One of the most used features of SNS used nowadays is realtime interaction between users. This social networking web app is built with the React Framework for frontend, and Firebase backend services, which allows users to add posts on the feed with "Like" functionality.
 
