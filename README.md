@@ -17,8 +17,10 @@
     <br />
     <div align="center">Please use the following information of test gateway to visualize scenarios such as payment success:</div>
     <br />
-    <div align="center">Email: guest@guest.com</div>
-    <div align="center">Password: 123123</div>
+    <div align="center">Credit card number: 4242 4242 4242 4242</div>
+    <div align="center">Expiration date: 04/24</div>
+    <div align="center">CVC: 242</div>
+    <div align="center">ZIP: 42424</div>
     <br />
   </p>
 </p>
