@@ -46,7 +46,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://shawn-kim-ecommerce.netlify.app)
 
-<p float="left" align="middle">
+<p float="left">
   <img src="src/assets/screen_shot2.png" width="50%" />
   <img src="src/assets/screen_shot3.png" width="50%" /> 
 </p>
