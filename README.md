@@ -44,7 +44,12 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://shawn-kim-portfolio.web.app/messaging)
+[![Product Name Screen Shot][product-screenshot]](https://shawn-kim-ecommerce.netlify.app)
+
+<p float="left" align="middle">
+  <img src="src/assets/screen_shot2.png" width="50%" />
+  <img src="src/assets/screen_shot3.png" width="50%" /> 
+</p>
 
 One of the most used features of SNS used nowadays is realtime interaction between users. This social networking web app is built with the React Framework for frontend, and Firebase backend services, which allows users to add posts on the feed with "Like" functionality.
 
@@ -105,4 +110,4 @@ Project Link: [https://github.com/skim33/E-commerce](https://github.com/skim33/E
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: src/assets/screen_shot.png
+[product-screenshot]: src/assets/screen_shot1.png
