@@ -50,13 +50,13 @@
 | ------------------------------------------------- | ------------------------------------------------- |
 | ![Product Name Screen Shot2][product-screenshot2] | ![Product Name Screen Shot3][product-screenshot3] |
 
-One of the most used features of SNS used nowadays is realtime interaction between users. This social networking web app is built with the React Framework for frontend, and Firebase backend services, which allows users to add posts on the feed with "Like" functionality.
+This is a complete eCommerce website built with commerce.js. This headless eCommerce platform provides easier and faster integration of eCommerce and any web. It also provides a test payment gateway that can be used to try out the platform built with React framework.
 
 ### Built With
 
 - [React](https://reactjs.org/) (Frontend)
-- [Redux](https://redux.js.org/) (State Management)
-- [Firebase](https://firebase.google.com/) (Backend / Host)
+- [Commerce.js](https://commercejs.com/) (Backend / eCommerce API)
+- [Netlify](https://www.netlify.com/) (Host)
 - [Material UI](https://mui.com/)
 
 <!-- GETTING STARTED -->
